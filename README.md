@@ -20,7 +20,7 @@ The program consists of two main components:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/arithmetic-expression-parser.git
+    git clone https://github.com/osmanmehmood/arithmetic-expression-parser.git
     ```
 
 2. Navigate to the directory:
