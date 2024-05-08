@@ -26,7 +26,7 @@ The program consists of two main components:
 2. Navigate to the directory:
 
     ```bash
-    cd arithmetic-expression-parser
+    cd compiler-design-project
     ```
 
 3. Run the program:
