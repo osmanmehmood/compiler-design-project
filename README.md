@@ -1,8 +1,10 @@
 Overview:
+
 The first milestone focuses on understanding the grammar of the language and implementing basic 
 input handling functionalities in the parser. This milestone lays the foundation for subsequent stages 
 of the project by ensuring that the parser can accept input from the user and tokenize it 
 appropriately.
+
 Deliverables:
 Grammar Understanding Documentation:
 o Document the grammar rules provided in the problem statement.
@@ -23,6 +25,7 @@ o Provide clear explanations and examples to illustrate how valid arithmetic
 expressions are formed according to the grammar.
 o Address any questions or uncertainties about the grammar rules to ensure a 
 comprehensive understanding before proceeding to implementation.
+
 Input Handling Implementation:
 o Create a function or method that prompts the user to enter an arithmetic 
 expression.
